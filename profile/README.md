@@ -1,5 +1,5 @@
-## Welcome to curioustudios' Github organisation!
-#### Here, we make and publish our code.
+# Welcome to curioustudios' Github organisation!
+## Here, we make and publish our code.
 ---
 ## 👋 Introduction
 Hey there, and welcome to the curioustudios Github organisation! Here, we make and publish our code.
